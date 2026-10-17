@@ -84,6 +84,7 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome).
 * [Ansible](https://www.ansible.com/) - Configuration management and automation tool.
 * [DeployHQ](https://www.deployhq.com/) - Modern, web-based deployment platform.
 * [Buildstash](https://buildstash.com/) - Binary and release management platform for built software.
+* [TDK CLI](https://github.com/tdk-landscape/tdk-cli-core) - Start local services on Docker and Tilt from one service.json per service, no Kubernetes.
 
 ## APIs & Backends
 
